@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marg20
-- 👀 I’m interested in ...UX/UI Design
+- 👀 I’m interested in UX/UI Design
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on UX/UI Projects
 - 📫 How to reach me https://www.linkedin.com/in/mpapakosta/
